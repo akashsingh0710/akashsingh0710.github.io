@@ -268,7 +268,7 @@ img {
 }
 
 .about__img img {
-  width: 200px;
+  width: 50px;
   border-radius: .5rem;
 }
 
@@ -502,7 +502,7 @@ img {
     padding-top: 2rem;
   }
   .about__img img {
-    width: 300px;
+    width: 800px;
   }
   .skills__container {
     grid-template-columns: repeat(2, 1fr);
